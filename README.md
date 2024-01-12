@@ -39,12 +39,12 @@ STEP 2. 수도권은 포화상태가 된 지 오래다.<br>
 - JDK 11.0.15<br>
 
 <h2>4. ERD</h2>
-<img src="https://github.com/README-wmoon/README-wmoon/assets/129862668/37c091ea-7606-4045-9afc-f9bc74c48964"  style = "width: 80%; height : 480">
+<img width="1004" alt="erd" src="https://github.com/README-wmoon/study-html/assets/129862668/def4b377-25db-4f52-98b2-50fd663c33dd">
 
   
 <h2>5. 담당 업무</h2>
 5-1 프론트엔드<br>
-<img src="https://github.com/README-wmoon/README-wmoon/assets/129862668/0df87008-c562-409e-b253-2b1fca54c3e3" style = "width: 90%;">
+<img width="1243" alt="front" src="https://github.com/README-wmoon/study-html/assets/129862668/fb0197f4-c8be-46ce-b998-f3a247ae5774">
 
 ▶ 로그인
 - 다른 방법으로 시작하는 법
@@ -67,7 +67,7 @@ STEP 2. 수도권은 포화상태가 된 지 오래다.<br>
 
 <br>
 5-2 백엔드<br>
-<img src="https://github.com/README-wmoon/README-wmoon/assets/129862668/a18b534b-3e04-4078-b1a0-f14c5f173343" style = "width: 90%;">
+<img width="1288" alt="back" src="https://github.com/README-wmoon/study-html/assets/129862668/6e923cf9-88f1-46ce-ac62-1da006eafee6">
 
 
 ▶ 검색창
