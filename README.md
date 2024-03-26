@@ -1,4 +1,4 @@
-# heyDoctor
+# yeongae-somun
 
 <h1>지역 산업 활성화를 위한 스타트업 지원프로그램 운영 - 'yeongae-somun'</h1>
 
